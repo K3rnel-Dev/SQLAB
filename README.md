@@ -8,7 +8,7 @@
 
                                      🖼️ Pictures
 <div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://github.com/K3rnel-Dev/SQLAB/screens/screen.png"></img> 
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://github.com/K3rnel-Dev/SQLAB/blob/main/screens/screen.png"></img> 
     
 </div>
 
